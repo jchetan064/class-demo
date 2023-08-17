@@ -1,2 +1,2 @@
 # class-demo
-This is a demo of Git &amp; Github online class
+This is a demo of Git &amp; Github online class.
